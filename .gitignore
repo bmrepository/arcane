@@ -1,0 +1,6 @@
+# Ignore everyhing
+*
+/.config/chromium
+# But not these
+!/.gitignore
+!/.config
