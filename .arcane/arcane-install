@@ -1,1 +1,7 @@
 eval "$(curl -fsSL https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/boot.sh)"
+
+cd /path/to/your/current-directory
+git init
+git remote add origin git@github.com:bmrepository/arcane.git
+git fetch
+git checkout -t origin/main
