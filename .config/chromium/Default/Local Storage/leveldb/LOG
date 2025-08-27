@@ -1,42 +1,21 @@
-2025/08/27-05:51:51.735 4 Reusing MANIFEST /home/matt/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2025/08/27-05:51:51.739 4 Recovering log #14
-2025/08/27-05:51:51.740 4 Reusing old log /home/matt/.config/chromium/Default/Local Storage/leveldb/000014.log 
-2025/08/27-06:11:03.997 5 Level-0 table #18: started
-2025/08/27-06:11:04.007 5 Level-0 table #18: 63473 bytes OK
-2025/08/27-06:11:04.013 5 Delete type=0 #14
-2025/08/27-06:11:04.013 5 Compacting 4@0 + 1@1 files
-2025/08/27-06:11:04.017 5 Generated table #19@0: 79 keys, 32535 bytes
-2025/08/27-06:11:04.017 5 Compacted 4@0 + 1@1 files => 32535 bytes
-2025/08/27-06:11:04.022 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/27-06:11:04.023 5 Delete type=2 #8
-2025/08/27-06:11:04.023 5 Delete type=2 #11
-2025/08/27-06:11:04.023 5 Delete type=2 #13
-2025/08/27-06:11:04.023 5 Delete type=2 #15
-2025/08/27-06:11:04.023 5 Delete type=2 #18
-2025/08/27-06:21:56.437 5 Level-0 table #21: started
-2025/08/27-06:21:56.443 5 Level-0 table #21: 219704 bytes OK
-2025/08/27-06:21:56.449 5 Delete type=0 #17
-2025/08/27-07:00:26.287 5 Level-0 table #23: started
-2025/08/27-07:00:26.293 5 Level-0 table #23: 81589 bytes OK
-2025/08/27-07:00:26.304 5 Delete type=0 #20
-2025/08/27-07:07:32.889 5 Level-0 table #25: started
-2025/08/27-07:07:32.900 5 Level-0 table #25: 19691 bytes OK
-2025/08/27-07:07:32.906 5 Delete type=0 #22
-2025/08/27-07:17:08.910 5 Level-0 table #27: started
-2025/08/27-07:17:08.921 5 Level-0 table #27: 23829 bytes OK
-2025/08/27-07:17:08.927 5 Delete type=0 #24
-2025/08/27-07:17:08.927 5 Compacting 4@0 + 1@1 files
-2025/08/27-07:17:08.933 5 Generated table #28@0: 102 keys, 246992 bytes
-2025/08/27-07:17:08.933 5 Compacted 4@0 + 1@1 files => 246992 bytes
-2025/08/27-07:17:08.939 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/27-07:17:08.939 5 Delete type=2 #19
-2025/08/27-07:17:08.939 5 Delete type=2 #21
-2025/08/27-07:17:08.939 5 Delete type=2 #23
-2025/08/27-07:17:08.939 5 Delete type=2 #25
-2025/08/27-07:17:08.939 5 Delete type=2 #27
-2025/08/27-07:19:33.382 5 Level-0 table #30: started
-2025/08/27-07:19:33.392 5 Level-0 table #30: 20927 bytes OK
-2025/08/27-07:19:33.398 5 Delete type=0 #26
-2025/08/27-07:27:25.499 5 Level-0 table #32: started
-2025/08/27-07:27:25.509 5 Level-0 table #32: 35316 bytes OK
-2025/08/27-07:27:25.515 5 Delete type=0 #29
+2025/08/27-15:41:10.679 4 Reusing MANIFEST /home/matt/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/08/27-15:41:10.682 4 Recovering log #31
+2025/08/27-15:41:10.682 4 Reusing old log /home/matt/.config/chromium/Default/Local Storage/leveldb/000031.log 
+2025/08/27-15:44:14.149 5 Level-0 table #35: started
+2025/08/27-15:44:14.153 5 Level-0 table #35: 83554 bytes OK
+2025/08/27-15:44:14.159 5 Delete type=0 #31
+2025/08/27-15:46:56.718 5 Level-0 table #37: started
+2025/08/27-15:46:56.728 5 Level-0 table #37: 50802 bytes OK
+2025/08/27-15:46:56.734 5 Delete type=0 #34
+2025/08/27-15:46:56.734 5 Compacting 4@0 + 1@1 files
+2025/08/27-15:46:56.740 5 Generated table #38@0: 132 keys, 261520 bytes
+2025/08/27-15:46:56.741 5 Compacted 4@0 + 1@1 files => 261520 bytes
+2025/08/27-15:46:56.746 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/27-15:46:56.746 5 Delete type=2 #28
+2025/08/27-15:46:56.746 5 Delete type=2 #30
+2025/08/27-15:46:56.746 5 Delete type=2 #32
+2025/08/27-15:46:56.747 5 Delete type=2 #35
+2025/08/27-15:46:56.747 5 Delete type=2 #37
+2025/08/27-15:47:03.114 5 Level-0 table #40: started
+2025/08/27-15:47:03.125 5 Level-0 table #40: 78212 bytes OK
+2025/08/27-15:47:03.131 5 Delete type=0 #36
